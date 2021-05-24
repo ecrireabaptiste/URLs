@@ -7,3 +7,6 @@ https://pythonhowtoprogram.com/how-to-split-and-organise-your-source-code-into-m
 
 PWM
 https://embeddedcircuits.com/raspberry-pi/tutorial/how-to-generate-pwm-signal-from-raspberry-pi
+
+Fonts
+https://www.templatemaker.nl/singlelinetext/
