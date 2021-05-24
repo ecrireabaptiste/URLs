@@ -10,3 +10,6 @@ https://embeddedcircuits.com/raspberry-pi/tutorial/how-to-generate-pwm-signal-fr
 
 Fonts
 https://www.templatemaker.nl/singlelinetext/
+
+SVG
+https://www.w3.org/TR/SVG11/
